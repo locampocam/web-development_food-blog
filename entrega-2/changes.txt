@@ -45,3 +45,9 @@ Incorporated an enhanced navbar and a styled footer.
 Conclusion:
 The implemented improvements optimized the structure, design, and user experience using CSS Grid, Flexbox, Bootstrap, and Media Queries, resulting in a more responsive and modern web page.
 
+5. update style.css
+Se estableció un tamaño fijo de 200px de alto para todas las imágenes.
+Se aplicó object-fit: cover; para evitar distorsiones.
+
+
+
