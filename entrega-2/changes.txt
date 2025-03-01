@@ -1,0 +1,47 @@
+Report on Changes Made to the Web Page
+
+1. Modifications in styles.css:
+
+Implemented box-sizing: border-box for better control of margins and borders.
+
+Improved navbar organization with display: flex and justify-content: space-around.
+
+Applied grid-template-columns in main to better arrange elements.
+
+Added media queries for a responsive design on mobile devices.
+
+Enhanced recipe card styles with box-shadow and border-radius.
+
+Improved the contact form with form-control, shadow, and rounded.
+
+2. Changes in index.html:
+
+Implemented Bootstrap for better structure and design.
+
+Reorganized main with container, row, and col-md-6 for a more fluid layout.
+
+Replaced simple divs with Bootstrap card components in the recipe section.
+
+Added a styled footer using Bootstrap classes.
+
+3. Changes in recetas.html:
+
+Restructured the recipe list using row and col-md-6 col-lg-3 from Bootstrap for better distribution.
+
+Added Bootstrap card components to display images and recipe descriptions.
+
+Included btn btn-primary buttons for links to recipe videos.
+
+4. Changes in contacto.html:
+
+Implemented Bootstrap in the contact form for better appearance.
+
+Added FontAwesome icons in input fields.
+
+Organized content with bg-light, shadow, and rounded for improved design.
+
+Incorporated an enhanced navbar and a styled footer.
+
+Conclusion:
+The implemented improvements optimized the structure, design, and user experience using CSS Grid, Flexbox, Bootstrap, and Media Queries, resulting in a more responsive and modern web page.
+
